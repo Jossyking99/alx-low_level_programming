@@ -6,13 +6,10 @@
 
 /**
  *
- *  *main - Entry point
+ *  main -program entry point
  *
- *   *Return: Always return 1
- *
- *    *
- *
- *     */
+ *   *Return: Always return 1    
+ */
 
 
 
