@@ -1,12 +1,10 @@
 #include <stdio.h>
 /**
- * main - finds and prints the sum of the even-valued terms
- * followed by a new line
- * Return: Always 0
+ * main - sum even fibonacci numbers under 4 million.
+ * Return: Nothing.
  */
 int main(void)
 {
-	int i;
 	unsigned long count, i, j, k, sums;
 
 	i = sums = 0;
@@ -25,4 +23,3 @@ int main(void)
 	printf("%lu\n", sums);
 	return (0);
 }
-
