@@ -38,4 +38,3 @@ int num, j, result;
 	printf("%d\n", result);
 	return (0);
 }
-		
